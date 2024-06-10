@@ -14,8 +14,6 @@ Instructions détaillées sur la façon d'installer et de configurer votre proje
 
 ## Utilisation
 
-Instructions sur la façon d'utiliser votre projet. Par exemple :
-
 1. Ouvrez l'application.
 2. Cliquez sur le bouton de couleur à côté du champ de température pour ouvrir l'activité ColorActivity.
 3. Utilisez les curseurs pour ajuster les composantes rouge, vert et bleu de la couleur.
